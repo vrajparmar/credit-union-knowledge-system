@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data snapshots and archives (Redistribution prohibited by assignment rules)
+/snapshots/
+/snapshots_zip/
+*.zip
+*.tar.gz
+
+# Evaluation outputs and logs
+results/
+.system_generated/
+*.log
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

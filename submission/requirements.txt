@@ -1,0 +1,3 @@
+# Requirements
+# The solution uses only Python's standard library; grading targets Python 3.11.
+# Zero external packages are required to run.
