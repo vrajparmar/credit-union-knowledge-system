@@ -19,3 +19,14 @@ results/
 Thumbs.db
 .vscode/
 .idea/
+/hackathon-knowledge-kit-participant/snapshots/
+/hackathon-knowledge-kit-participant/snapshots_zip/
+*.zip
+*.tar.gz
+.env
+.env.*
+*.key
+*.pem
+secret
+credentials
+google-application-credentials.json
